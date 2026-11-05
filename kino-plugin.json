@@ -1,0 +1,15 @@
+{
+  "id": "brolyn",
+  "name": "Brolyn",
+  "version": "1.0.0",
+  "apiVersion": 8,
+  "entry": "plugin.js",
+  "description": "Catálogo temático de Broly y Dragon Ball Super: películas, series y anime con datos de TMDB.",
+  "author": "TU_USUARIO",
+  "homepage": "https://github.com/TU_USUARIO/brolyn-kino",
+  "hosts": ["image.tmdb.org"],
+  "capabilities": ["home", "search", "browse", "episodes", "resolve"],
+  "catalogOnly": true,
+  "color": "#2FBF4A",
+  "icon": "icon.png"
+}
