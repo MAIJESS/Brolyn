@@ -22,7 +22,7 @@ Catálogo temático de **Broly y Dragon Ball Super** para [KinoTV](https://kinot
 En Kino: **Menú ▸ Plugins ▸ Agregar** y escribe:
 
 ```
-https://github.com/TU_USUARIO/brolyn-kino
+MAIJESS/Brolyn
 ```
 
 ## Probar en local
